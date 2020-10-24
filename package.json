@@ -1,0 +1,12 @@
+{
+  "name": "jamstack_todo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wmahmood1984/jamstacktodo2.git",
+  "author": "Waqas Mahmood <waqasnizamani3@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces":[
+    "packages/*"
+  ]
+}
