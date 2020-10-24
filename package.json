@@ -6,7 +6,7 @@
   "author": "Waqas Mahmood <waqasnizamani3@gmail.com>",
   "license": "MIT",
   "private": true,
-  "workspaces":[
+  "workspaces": [
     "packages/*"
   ]
 }
